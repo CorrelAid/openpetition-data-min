@@ -1,18 +1,15 @@
-Project name
+OpenPetition mini data cleaning
 ================
+  
+  
+  # Setup
+  
+  1. Download RStudio and R (see [here](https://posit.co/download/rstudio-desktop/))
+2. double click on the file `openpetition-data-min.Rproj` -> that should open the project in RStudio
+3. add data to data directory (see file name in R script)
+4. open `reduce-data-for-analysis.R`
+5. Click Source or execute lines of code with CTRL+Enter. 
 
+# License
 
-# Setup
-
-
-# Developer information
-
-\[the following can also be moved to the wiki if you decide to have
-one\]
-
-## Definition of Done
-
-Default Definition of Done can be found
-[here](https://github.com/CorrelAid/definition-of-done). Adapt if
-needed.
-
+Data are licensed by OpenPetition under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en). 
